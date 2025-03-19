@@ -77,8 +77,6 @@ class shopPurchase(): #My Channels Shop Interface
 setupTwitch.setchatControl(setupTwitch,False)
 
 #Logic Main
-userItems = []
-
 #Fun and interesting commands
 async def keyPress(key,msg:ChatCommand): #KeyPresser
     if setupTwitch.getChatControl(setupTwitch):
