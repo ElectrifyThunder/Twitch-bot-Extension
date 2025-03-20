@@ -17,7 +17,7 @@ https://dev.twitch.tv
 
 4) Get your CLIENT_ID
 ![image](https://github.com/user-attachments/assets/509421a6-8856-47ca-a30f-661306f2a59d)
-Client_ID = "[YOUR CLIENT ID]" - Rename to whatever your client ID is
+CLIENT_ID = "[YOUR CLIENT ID]" - Rename to whatever your client ID is
 
 6) Click New Secret & copy that
 APP_SECRET = "[YOUR APP SECRET]" - Rename whatever your App Secret is
