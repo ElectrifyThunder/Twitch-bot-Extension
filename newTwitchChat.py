@@ -21,7 +21,7 @@ import aiohttp
 import dontlook #Hidden secrets to not show
 
 #Secrets and Descriptions (Replace these with your channel descriptions and secrets)
-#Go here to see the entire Documentation on how to set it up ()
+#Go here to see the entire Documentation on how to set it up (https://github.com/ElectrifyThunder/Twitch-bot-Extension)
 
 TARGET_CHANNEL = dontlook.TARGET_CHANNEL
 CLIENT_SECRET = dontlook.CLIENT_SECRET
