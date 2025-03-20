@@ -1,12 +1,9 @@
-IN ORDER TO USE THIS BE SURE TO ADD YOUR OWN
+IN ORDER TO USE THIS BE SURE TO ADD YOUR OWN IDs:
 
-APP_ID = "[YOUR APP ID]"
+CLIENT_ID = "[YOUR CLIENT ID]"
 APP_SECRET = "[YOUR APP SECRET]"
-Access_Token = "[YOUR ACCESS TOKEN]"
-Refresh_Token = "[YOUR REFRESH TOKEN]"
-Client_ID = "[YOUR CLIENT ID]"
-USER_SCOPE = [AuthScope.CHAT_READ,AuthScope.CHAT_EDIT,AuthScope.CHANNEL_MANAGE_BROADCAST]
 TARGET_CHANNEL = "[YOUR CHANNEL]"
+USER_SCOPE = [AuthScope.CHAT_READ,AuthScope.CHAT_EDIT,AuthScope.CHANNEL_MANAGE_BROADCAST]
 
 TUTORIAL:
 
@@ -18,5 +15,13 @@ https://dev.twitch.tv
 3) Rename OAuth Redirect URLs to http://localhost:17563 and click ADD
 ![image](https://github.com/user-attachments/assets/b7a48fe9-4d1c-4f47-bcc7-0f4cec20c5de)
 
-4) Get your Client ID and Client Secret
+4) Get your CLIENT_ID
 ![image](https://github.com/user-attachments/assets/509421a6-8856-47ca-a30f-661306f2a59d)
+Client_ID = "[YOUR CLIENT ID]" - Rename to whatever your client ID is
+
+6) Click New Secret & copy that
+APP_SECRET = "[YOUR APP SECRET]" - Rename whatever your App Secret is
+
+7) Done? Congrats, now paste your channel name in the TARGET_CHANNEL It'll look like this
+TARGET_CHANNEL = "[YOUR CHANNEL]"
+
