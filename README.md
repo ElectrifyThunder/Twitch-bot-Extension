@@ -16,11 +16,11 @@ https://dev.twitch.tv
 
 4) Get your CLIENT_ID
 ![image](https://github.com/user-attachments/assets/509421a6-8856-47ca-a30f-661306f2a59d)
-CLIENT_ID = "[YOUR CLIENT ID]" - Rename to whatever your client ID is
+CLIENT_ID = "YOUR CLIENT ID" - Rename to whatever your client ID is
 
 6) Click New Secret & copy that
-APP_SECRET = "[YOUR APP SECRET]" - Rename whatever your App Secret is
+CLIENT_SECRET  = "YOUR CLIENT SECRET" - Rename whatever your App Secret is
 
-7) Done? Congrats, now paste your channel name in the TARGET_CHANNEL It'll look like this
-TARGET_CHANNEL = "[YOUR CHANNEL]"
+8) Done? Congrats, now paste your channel name in the TARGET_CHANNEL It'll look like this
+TARGET_CHANNEL = "YOUR CHANNEL"
 
