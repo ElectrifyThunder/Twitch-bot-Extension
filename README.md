@@ -8,7 +8,7 @@ TUTORIAL:
 
 1) Go To Twitch Developers
 https://dev.twitch.tv
-2) Create a new Application
+2) Create a new Application or Create an Extension if you haven't already.
 ![image](https://github.com/user-attachments/assets/432f74e0-a418-49d7-8b5c-15238c06da07)
 
 3) Rename OAuth Redirect URLs to http://localhost:17563 and click ADD
